@@ -30,19 +30,33 @@ This should open in a new browser window with local access to Shelly's device.
 ![image](https://user-images.githubusercontent.com/7755806/203836905-7268bda2-faae-4927-b62e-2feba05750e4.png)
 
  
-## Installing Script
- 
-
 * Click on **Devices** button
-* Click on **Debug** button
-* Enable **Mqtt debug:** and **Websocket debug::**
+![image](https://user-images.githubusercontent.com/7755806/203840748-ebfddbd4-154c-4ab4-85c2-509186f7627e.png)
+
+
+* Click on **Debug** button, Enable **Mqtt debug:** and **Websocket debug**
+![image](https://user-images.githubusercontent.com/7755806/203840793-38811213-aa09-41df-8700-d17215efe783.png)
+
+
 * Click on **Scripts** button
+![image](https://user-images.githubusercontent.com/7755806/203840914-16d16ab6-a3f6-4d73-977c-9a788999005f.png)
+
+
 * Open **Add Script**
+![image](https://user-images.githubusercontent.com/7755806/203840941-da0b549a-37f0-46c8-9a3d-0081177c4294.png)
+
+
 * Enter **script name**
-* Open script  `https://github.com/jeveli/shelly-spotprice/commit/227bfad28490e51ed9c9c53f5b92d91b29792a1b`
-* Copy the script and paste it into the editor
-* Click on **Save and run**
- 
+![image](https://user-images.githubusercontent.com/7755806/203841001-203a9b1b-c473-43d7-a74d-1f8992b2e966.png)
+
+
+* Open script  `https://github.com/jeveli/shelly-spotprice/blob/58eee83dcfc41fec9947ae5b717a68cd90fb2f86/Finland%20Spot%20Price%20script`
+![image](https://user-images.githubusercontent.com/7755806/203841254-18009801-bd18-4bb8-aa71-42d407df34cb.png)
+
+
+* Copy the script and paste it into the editor and click on **Save and run**
+![image](https://user-images.githubusercontent.com/7755806/203841322-be2f4df9-b34d-4037-998c-204766ff4476.png)
+
 
 ## Configure API endpoint
 Find `api_endpoint` and change `#COUNTRY_CODE#` 🌍 to ee, lv, lt or fi
