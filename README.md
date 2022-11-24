@@ -34,11 +34,8 @@ This should open in a new browser window with local access to Shelly's device.
 ![image](https://user-images.githubusercontent.com/7755806/203840748-ebfddbd4-154c-4ab4-85c2-509186f7627e.png)
 
 
-* Click on **Debug** button, Enable **Mqtt debug:** and **Websocket debug**
+* Click on **Debug** button, Enable **Mqtt debug:** and **Websocket debug** then click on **Script** button
 ![image](https://user-images.githubusercontent.com/7755806/203840793-38811213-aa09-41df-8700-d17215efe783.png)
-
-
-* Click on **Script** button
 ![image](https://user-images.githubusercontent.com/7755806/203840914-16d16ab6-a3f6-4d73-977c-9a788999005f.png)
 
 
