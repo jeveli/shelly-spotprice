@@ -1,5 +1,5 @@
  
-# Add Nordpool price 💶 switching to your shelly Plus 1 PM device
+# Add Nordpool price switching to your shelly Plus 1 PM device
  
 This code works if you live in Estonia 🇪🇪, Lithuania 🇱🇻, Latvia 🇱🇹 or Finland 🇫🇮. Just change the country code in the API endpoint.
 
