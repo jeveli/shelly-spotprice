@@ -8,17 +8,24 @@ Make sure your Shelly device is connected to the Internet and accessible from LA
 * Login to the cloud ☁️
 * Find device
 * Click settings
+* Firmware Versions
+* Update the firmware
 * Device information
 * Device IP
 This should open in a new browser window with local access to Shelly's device.
  
 ## Installing Script
  
+
+* Click on **Devices** button
+* Click on **Debug** button
+* Enable **Mqtt debug:** and **Websocket debug::**
 * Click on **Scripts** button
-* Open **Libary** modular
-* Push **Configure URL** button
-* Paste URL `https://raw.githubusercontent.com/martinkangur/shelly/main/SHELLY_MJS.md`
-* Click on desired script
+* Open **Add Script**
+* Enter **script name**
+* Open script  `https://github.com/jeveli/shelly-spotprice/commit/227bfad28490e51ed9c9c53f5b92d91b29792a1b`
+* Copy the script and paste it into the editor
+* Click on **Save and run**
  
 
 ## Configure API endpoint
