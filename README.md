@@ -57,16 +57,16 @@ This should open in a new browser window with local access to Shelly's device.
 
 
 ## Configure API endpoint
-Find `api_endpoint` and change `#COUNTRY_CODE#` 🌍 to ee, lv, lt or fi
+Find `api_endpoint` and change `#COUNTRY_CODE#` to ee, lv, lt or fi
 ```
 api_endpoint: "https://dashboard.elering.ee/api/nps/price/fi/current"
 ```
  
-## Set your price point  👈
+## Set your price point
 Find configuration value `price_limit` will be set when your device turns on or off. Prices don’t include VAT and are measured in EUR/MWh
 ### Example
 ```  price_limit: 400 ```
-Will set toggling threshold for the device to 400 EUR/MWh
+Will set toggling threshold for the device to 400 EUR/MWh (40cnt/Kwh
 
 Editable Examples in the code:
  switchId: 0,             // ID of the switch to control
