@@ -71,6 +71,9 @@ Will set toggling threshold for the device to 400 EUR/MWh (40cnt/Kwh
 Editable Examples in the code:
 
  switchId: 0,             // ID of the switch to control
+ 
  price_limit: 400,        // EUR/MWh. Vat not included. All under this will activate the relay, default 400 EUR/MWh (40cnt/Kwh)
+ 
  update_time: 60000,      // 1 minute. Price update interval in milliseconds
+ 
  reverse_switching: false // If true, switch will be turned on when price is over the limit, default 400 EUR/MWh (40cnt/Kwh). Default false / 
