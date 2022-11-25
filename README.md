@@ -7,7 +7,7 @@ This code works if you live in Estonia 🇪🇪, Lithuania 🇱🇻, Latvia 🇱
 Make sure your Shelly device is connected to the Internet and accessible from LAN.
 * Login to the cloud ☁️
 * Find device
-* ![image](https://user-images.githubusercontent.com/7755806/203836506-48ee1dd3-49dc-4262-a608-3fc9b090dd90.png)
+ ![image](https://user-images.githubusercontent.com/7755806/203836506-48ee1dd3-49dc-4262-a608-3fc9b090dd90.png)
 
 * Click settings
 ![image](https://user-images.githubusercontent.com/7755806/203836573-d62411d9-f7f4-453b-85c2-e163a4c0fc34.png)
